@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisDGamboaC
 - 👀 I’m interested in ... Front End and Back End
-- 🌱 I’m currently learning ... Angular PHP JavaScript SQL Sass HTML CSS Node.js Express.js  JQuery BootStrap
+- 🌱 I’m currently learning ... Angular React PHP JavaScript SQL Sass HTML CSS Node.js Express.js  JQuery BootStrap
 - 💞️ I’m looking to collaborate on ...  Front End Projects
 - 📫 How to reach me ... progama.end@gmail.com
 
